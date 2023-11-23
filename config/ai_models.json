@@ -8,5 +8,10 @@
     "model": "ollama/mistral",
     "base_api": "http://localhost:11434",
     "resolver_type": "ollama"
+  },
+  "Ollama LLama2": {
+    "model": "ollama/llama2",
+    "base_api": "http://localhost:11434",
+    "resolver_type": "ollama"
   }
 }

@@ -1,5 +1,8 @@
 # 🌟 Chat With YouTube Videos 🌟
 
+[![How I made a Chatbot to speak with YouTube Videos](https://img.youtube.com/vi/U7qH7XcotJo/0.jpg)](https://www.youtube.com/watch?v=U7qH7XcotJo "Video Title")
+
+
 ## Introduction 🚀
 Hey there, awesome coders! 🎉 I'm super thrilled to introduce our latest Python project that's going to blow your minds! 🤯 Imagine chatting with YouTube videos - yes, you heard that right! 📹💬 We're merging the power of Large Language Models (LLMs) with the magic of YouTube, allowing you to interact with video content like never before. 🌈✨
 

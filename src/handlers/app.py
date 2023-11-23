@@ -1,7 +1,5 @@
 from typing import Dict
 import gradio as gr
-from src.handlers.hf_resolver import HuggingFaceResolver
-from src.handlers.ollama_resolver import OllamaResolver
 from src.handlers.yt_handler import YTHandler
 from src.models.config import load_resolvers
 from src.models.resolver import AIChatResolverBase
