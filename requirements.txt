@@ -1,0 +1,7 @@
+gradio==4.5.0
+gradio-client==0.7.0
+litellm==1.4.0
+youtube-transcript-api==0.6.1
+pydantic==2.5.2
+pydantic-core==2.14.5
+pydantic-settings==2.1.0

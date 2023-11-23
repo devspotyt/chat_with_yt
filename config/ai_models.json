@@ -1,0 +1,12 @@
+{
+  "Hugging Face Mistral": {
+    "model": "mistralai/Mistral-7B-Instruct-v0.1",
+    "base_api": "https://api-inference.huggingface.co/models",
+    "resolver_type": "huggingface"
+  },
+  "Ollama Mistral": {
+    "model": "ollama/mistral",
+    "base_api": "http://localhost:11434",
+    "resolver_type": "ollama"
+  }
+}
